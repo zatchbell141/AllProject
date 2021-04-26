@@ -1,0 +1,29 @@
+ <li>
+                     <a href="assignment.php"><i class="fa fa-edit "></i>Assignment</a>
+                    </li>
+                     <li>
+                     <a href="examtimetable.php"><i class="fa fa-edit "></i>Exam Time Table</a>
+                    </li>
+                     <li>
+                     <a href="feesupdate.php"><i class="fa fa-edit "></i>Fees Update</a>
+                    </li>
+                    <li>
+                     <a href="syllabus.php"><i class="fa fa-edit "></i>Syllabus</a>
+                    </li>
+                    <li>
+                     <a href="courses.php"><i class="fa fa-edit "></i>Course Structure</a>
+                    </li>
+                   <li>
+                     <a href="ebook.php"><i class="fa fa-edit "></i>E-Books</a>
+                    </li>
+                     <li>
+                                <a href="#">Reports<span class="fa arrow"></span></a>
+                                <ul class="nav nav-third-level">
+                                    <li>
+                                        <a href="reports.php">Receipt Reports</a>
+                                    </li>
+                                    <li>
+                                        <a href="feedbackdisplay.php">Feedback</a>
+                                    </li>
+                                </ul>
+                            </li>

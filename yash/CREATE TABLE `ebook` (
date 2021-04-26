@@ -1,0 +1,134 @@
+CREATE TABLE `ebook` (
+  `year` varchar(50) DEFAULT NULL,
+  `sem` varchar(50) DEFAULT NULL,
+  `name` varchar(50) DEFAULT NULL,
+  `file` varchar(50) DEFAULT NULL,
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `date` varchar(50) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `enquriy` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `name` varchar(50) DEFAULT NULL,
+  `email` varchar(50) DEFAULT NULL,
+  `contact` varchar(50) DEFAULT NULL,
+  `course` varchar(50) DEFAULT NULL,
+  `date` varchar(50) NOT NULL,
+  `time` varchar(50) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+CREATE TABLE `examtime` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `file` varchar(50) DEFAULT NULL,
+  `date` varchar(50) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+CREATE TABLE `feedback` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `name` varchar(50) DEFAULT NULL,
+  `contact` varchar(50) DEFAULT NULL,
+  `feedback` varchar(200) DEFAULT NULL,
+  `date` varchar(50) NOT NULL,
+  `time` varchar(50) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `mde` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `name` varchar(50) DEFAULT NULL,
+  `fees` varchar(50) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+CREATE TABLE `query` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `usernm` varchar(50) DEFAULT NULL,
+  `date` varchar(50) DEFAULT NULL,
+  `time` varchar(50) DEFAULT NULL,
+  `quest` varchar(200) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `receipt` (
+  `id` int(3) UNSIGNED ZEROFILL NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `name` varchar(50) DEFAULT NULL,
+  `PRN` varchar(50) DEFAULT NULL,
+  `TRN` varchar(50) DEFAULT NULL,
+  `date` varchar(50) DEFAULT NULL,
+  `total` varchar(50) DEFAULT NULL,
+  `balance` varchar(50) DEFAULT NULL,
+  `paid` varchar(50) DEFAULT NULL,
+  `payment` varchar(50) DEFAULT NULL,
+  `chequeno` varchar(50) DEFAULT NULL,
+  `chequedate` varchar(50) DEFAULT NULL,
+  `bank` varchar(50) DEFAULT NULL,
+  `year` varchar(50) DEFAULT NULL,
+  `sem` varchar(50) DEFAULT NULL,
+  `mode` varchar(50) NOT NULL
+) ENGINE=InnoDB  AUTO_INCREMENT=001 DEFAULT CHARSET=latin1;
+
+
+CREATE TABLE `result` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `name` varchar(50) DEFAULT NULL,
+  `prn` varchar(50) DEFAULT NULL,
+  `seat` varchar(50) DEFAULT NULL,
+  `subject` varchar(5000) DEFAULT NULL,
+  `Mode` varchar(50) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+CREATE TABLE `sem` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `name` varchar(50) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `studentdt` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `prn` varchar(20) DEFAULT NULL,
+  `name` varchar(50) DEFAULT NULL,
+  `sem` varchar(50) DEFAULT NULL,
+  `year` varchar(50) DEFAULT NULL,
+  `centern` varchar(50) DEFAULT NULL,
+  `trn` varchar(50) DEFAULT NULL,
+  `fees` varchar(50) NOT NULL,
+  `course` varchar(50) NOT NULL,
+  `mode` varchar(50) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+CREATE TABLE `studreg` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `name` varchar(50) DEFAULT NULL,
+  `PRN` varchar(50) DEFAULT NULL,
+  `contact` varchar(50) DEFAULT NULL,
+  `sem` varchar(50) DEFAULT NULL,
+  `year` varchar(50) DEFAULT NULL,
+  `passwd` varchar(50) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+CREATE TABLE `subject` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `name` varchar(50) DEFAULT NULL,
+   `new` varchar(50) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+CREATE TABLE `techer` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `name` varchar(50) DEFAULT NULL,
+  `lastname` varchar(50) DEFAULT NULL,
+  `gender` varchar(50) DEFAULT NULL,
+  `contact` varchar(50) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+CREATE TABLE `timetable` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `teachernm` varchar(50) DEFAULT NULL,
+  `subject` varchar(50) DEFAULT NULL,
+  `year` varchar(50) DEFAULT NULL,
+  `sem` varchar(50) DEFAULT NULL,
+  `time` varchar(50) DEFAULT NULL,
+  `status` varchar(50) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;

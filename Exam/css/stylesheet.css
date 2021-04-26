@@ -1,0 +1,40 @@
+body{
+	position: absolute;
+}
+#menu{
+	background-color: black;
+	min-height: 900px;
+	color:white;
+	position:static;
+}
+#content{
+	margin-top: 60px;
+	margin-left: 50px;
+}
+#main-section{
+	background:url("../images/exam.jpg") no-repeat;
+	min-height:900px;
+	background-size:cover;
+	background-attachment: fixed;
+	color:black;
+}
+.overlay{
+	background-color: rgba(0,0,0.1,0.1);
+	min-height:900px;
+	opacity: 0.5;
+	position: relative;
+	width: 100%;
+}
+.main-frame{
+	margin-top: 130px;
+	padding: 30px;
+}
+.login{
+	margin-top: 130px;
+	background-color: rgba(0,0,0,0.2);
+	width:430px;
+	height:470px;
+}
+*{
+  border-radius: 0 !important;
+}

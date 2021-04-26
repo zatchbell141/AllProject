@@ -1,0 +1,74 @@
+INSERT INTO `studreg`(`id`, `name`, `PRN`, `contact`, `sem`, `year`, `passwd`) VALUES 
+('','AFFAN HAMEED SHAIKH','affans@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','AJAY PRAKESH SAWANT','ajayps@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','AJAY SURENDRA JETHE','ajaysj@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','AMIT JALUI','amitj@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+
+('','ANIKET BABAN GORE','aniketbg@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','ANIKET DINESH WAGH','aniketdw@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','ANIKET MORE','aniketm@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','ASHUTOSH KUMAR SUSHIL SINGH','ashutoshs@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+
+('','ASHWIN R K L KARAN ADITYA','ashwina@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','ATHARVA KISHOR GAWADE','atharvag@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','BHAVESH NAROTTAM CHAVAN','bhaveshc@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','BRIJESHKUMAR AJAYKUMAR TIWARI','brijeshkumart@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+
+('','CHAITANAYA PRANAYKUMAR SHAH','chaitanayas@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','CLINTON NESAN SUSE KABERIAL','clintonk@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','DIKSHA BALKRISHNA SHETTY','diskshas@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','GAURAV GIRISH LAD','gauravl@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+
+('','GULAM MOHIUDDIN FAYYAZ AHMAD','gulama@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','JUNAID MOHAMMED MULA','junaidm@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','KAHUSHIK MOHAN BHANDARI','kahushikb@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','KAISAR ABBAS KAYAM ABBAS SAYYED','kaisars@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+
+('','KARAN SHENDHE','ashwina@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','MANASVI DILIP PADEKAR','atharvag@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','MANISH MANGESH KARANJAKAR','bhaveshc@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','MAYUR OMPRAKASH PHUMATIYA','brijeshkumart@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+
+('','MAYURI PRAKASH BAIT','mayurib@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','MERAJ IMTIYAZ ALAM','meraja@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','MIHIR M DHANAVADE','mihird@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','MOHD TOUFIQUE MOHD NAFEES ','toufiquen@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+
+
+('','MOIN SIDDHIQ MAREDIA','moinm@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','NEHA NAMDEV WADKAR','nehaw@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','NITIN SANJAY MUNDLEKAR','nitinm@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','OMKAR MADHUKAR MUGUTRAO','omkarmm@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+
+('','OMKAR VISHNU MHETAR','omkarvm@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','PARTH SANTOSH TAWDE','partht@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','PAVAN VASANT TUNGAR','pavant@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','PRATHMESH SANTOSH MORE','prathmeshm@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+
+('','RACHANA RAJARAM SORATE','rachanas@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','RAHUL GIRISHCHANDRA GUPTA','rahulg@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','SACHIN KUMAR HUNS','sachinh@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','SANDEEP GANESH PURI','sandeepp@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+
+('','SAYALI MAHARUDHA NISARGANDH','sayalin@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','SHIVAM SURESH GURAV','shivamg@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','SHREYASH DASHRATH SATARDEKAR','shreyashs@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','SUMIT DEEPAK JADHAV','sumitj@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+
+('','SUMIT H JOGAL','sumithj@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','TEJAS PRAKASH CHINCHWALKAR','tejaspc@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','ULHAS APURV BORKAR','ulhasab@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','VEDANT UMESH AMBRADKAR','vedanta@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+
+('','VINAYAK VIDYADHAR JAMSANDEKAR','vinayakj@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','VINIT SAYANNA BONDLA','vinitb@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','YASH GIRISH RAJPUT','yashgr@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','YASH UDAJI RAIPURE','yashur@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY='),
+('','YASH VILAS PEDNEKAR','yashvp@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY=');
+('','RADHIR N JAIN','radhirj@bcaedu.in','0','I & II','FYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY=');
+
+
+INSERT INTO `studreg`(`id`, `name`, `PRN`, `contact`, `sem`, `year`, `passwd`) VALUES 
+('','AISHWARYA ANIL KURKUTE','aishwaryak@bcaedu.in','0','V & VI','TYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY=');
+('','ANIKET VITTHAL AROTE','aniketa@bcaedu.in','0','V & VI','TYBCA','F5rYEjh4/N5YTTMuODh+n4hn/20eV68JPL+NpMWJeCY=');
+

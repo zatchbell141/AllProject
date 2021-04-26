@@ -1,0 +1,6 @@
+username:yashinfotech2013
+passwd:yAshinfotech2013
+support pin:2013
+
+ns2.md-in-2.webhostbox.net
+ns1.md-in-2.webhostbox.net
